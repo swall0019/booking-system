@@ -22,9 +22,3 @@
 - Фильтры и сортировка в таблицах
 - Тёмная и светлая темы
 
-## Установка
-
-1. Клонировать репозиторий:
-   ```bash
-   git clone https://github.com/swall0019/booking-system.git
-   cd booking-system
